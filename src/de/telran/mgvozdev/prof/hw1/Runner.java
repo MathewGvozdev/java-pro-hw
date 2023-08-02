@@ -1,4 +1,4 @@
-package de.telran.gvozdev.mathew.hw1;
+package de.telran.mgvozdev.prof.hw1;
 
 public class Runner {
 
