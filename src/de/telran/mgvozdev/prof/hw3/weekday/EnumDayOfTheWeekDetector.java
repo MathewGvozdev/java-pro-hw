@@ -9,6 +9,6 @@ public class EnumDayOfTheWeekDetector implements DayOfTheWeekDetector{
                 return day.name();
             }
         }
-        return null;
+        return "Please input a valid number between 1 and 7";
     }
 }
