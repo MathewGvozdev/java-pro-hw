@@ -15,5 +15,7 @@ public class CreditCardRunner {
         System.out.println(creditCard);
         creditCard.deposit("1234", 40);
         System.out.println(creditCard);
+        creditCard.deposit("1234", 40);
+        System.out.println(creditCard);
     }
 }
